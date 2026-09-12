@@ -2,7 +2,7 @@
 
 ## 1. Introdução
 
-O PNEUMOVISION é uma proposta de treinamento e capacitação focada na aplicação de tecnologia para apoio à análise clínica relacionada ao pulmão, com ênfase em inteligência aplicada, interpretação de dados e uso orientado de ferramentas digitais.
+O PNEUMOVISION é uma proposta de treinamento e capacitação focada na aplicação de tecnologia para apoio à análise clínica relacionada a pneumologia, com ênfase em inteligência aplicada, interpretação de dados e uso orientado de ferramentas digitais.
 
 A proposta do programa está organizada para preparar os participantes a compreenderem o contexto do projeto, os objetivos de aprendizagem e os fluxos esperados na implementação inicial do treinamento.
 
@@ -19,7 +19,6 @@ O treinamento tem como objetivo:
 
 O material é direcionado a participantes que desejam:
 
-- compreender o uso e a finalidade da solução PNEUMOVISION;
 - acompanhar a estrutura pedagógica do programa;
 - praticar os fluxos iniciais de trabalho definidos no treinamento;
 - evoluir em competências técnicas e operacionais relacionadas ao tema.
@@ -49,7 +48,5 @@ O material está organizado em três blocos principais:
 - revisar os exercícios após cada etapa;
 - usar o cronograma como guia de acompanhamento;
 - manter a prática e a reflexão contínua como parte do processo de aprendizagem.
-
-## 7. Encaminhamento
 
 Este material funciona como base de apoio para a fase inicial do treinamento. A partir dele, os participantes passam a seguir o roteiro estruturado da Fase 1, consolidando a base teórica e operacional necessária para os próximos passos do programa.
