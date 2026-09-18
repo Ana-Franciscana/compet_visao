@@ -1,0 +1,3 @@
+Resumo:
+
+Pneumovision visa ajudar pessoas no tratamento de doenças respiratórias comuns, como asma e dpoc, a construção do projeto objetiva através de um vídeo e utilizando visão computacional, instruir o paciente á usar corretamente a medicação inalatória. O projeto utiliza a tecnologia de opencv, na qual podem ser identificados erros de uso da mediação por meio de vídeo, com e/s por matrizes de pixels, e o media pipe, que não precisa de treinamento complexo para compreender dados. 
